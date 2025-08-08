@@ -1,0 +1,52 @@
+html {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  margin: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  display: flex;
+  gap: 1rem;
+}
+
+.episodes {
+  color: white;
+  margin-left: 1rem;
+}
+
+h2 {
+  margin-bottom: 0.5rem;
+  color: white;
+  margin-top: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3,
+p {
+  color: white;
+}
+
+ol {
+  padding-left: 0.5rem;
+  width: 40vw;
+  margin-top: 0;
+}
+
+li {
+  list-style: none;
+  border-bottom: gray;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  color: white;
+  padding: 0.5rem;
+  padding-left: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  width: 100%;
+}
